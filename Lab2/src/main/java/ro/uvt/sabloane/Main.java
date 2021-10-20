@@ -12,8 +12,8 @@ public class Main {
         a.add(new Author("Mircea Cartarescu"));
         System.out.println(a);
 
-//        int indexChapterOne = discoTitanic.createChapter("Capitolul 1");
-//        Chapter chp1 = discoTitanic.getChapter(indexChapterOne);
+       //int indexChapterOne = discoTitanic.createChapter("Capitolul 1");
+      // Chapter chp1 = discoTitanic.getChapter(indexChapterOne);
 //        int indexSubChapterOneOne = chp1.createSubChapter("Subcapitolul 1.1");
 //        SubChapter scOneOne = chp1.getSubChapter(indexSubChapterOneOne);
 //        scOneOne.createNewParagraph("Paragraph 1");

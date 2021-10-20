@@ -1,7 +1,7 @@
-package ro.uvt.sabloane;
+package ro.uvt.sablab3;
 
 public class Author {
-    private final String name;
+    private String name;
 
     public Author(String name) {
         this.name = name;
