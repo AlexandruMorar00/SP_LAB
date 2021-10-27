@@ -6,10 +6,10 @@ public class Section implements Element{
     protected String title_;
     protected List<Element> content_ = new ArrayList<>();
 
-    public Section(String title, List<Element> content)
+    public Section(String name)
     {
-        title_ = title;
-        content_ = new ArrayList<>(content);
+        title_ = name;
+
     }
 
     @Override

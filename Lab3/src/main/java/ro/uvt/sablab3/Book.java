@@ -1,10 +1,16 @@
 package ro.uvt.sablab3;
+import java.util.ArrayList;
+import java.util.Collection;
 import java.util.List;
 
 public class Book extends Section{
-    public Book(String title, List<Element> content)
+
+    private Collection<Author> authors;
+
+
+    public Book(String name)
     {
-        super(title, content);
+        super(name);
     }
 
     @Override
@@ -29,14 +35,24 @@ public class Book extends Section{
         return content.toString();
     }
 
-
-    @Override
-    public void print() { }
-
-    @Override
-    public void add(Element element)
+    public void print()
     {
-        content_.add(element);
+        for(Author el:authors) {
+            el.print();
+        }
+        super.print();
+    }
+    public void addAuthor(Author a)
+    {
+        if(authors==null)
+            authors=new ArrayList<>();
+        authors.add(a);
+    }
+
+
+
+    public void addContent(Element element ) {
+        super.add(element);
     }
 
     @Override

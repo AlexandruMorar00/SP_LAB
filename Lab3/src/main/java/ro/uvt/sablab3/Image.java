@@ -1,12 +1,25 @@
 package ro.uvt.sablab3;
 
-public class Image implements Element {
-    private String url;
+import java.util.concurrent.TimeUnit;
 
+public class Image implements Element {
+    private String imageName;
+
+    public Image(String imageName) {
+        this.imageName = imageName;
+        try {
+            TimeUnit.SECONDS.sleep(5);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+    }
+    public void prints(){
+        System.out.println(imageName);
+    }
     @Override
     public String toString()
     {
-        return url;
+        return imageName;
     }
 
     @Override
