@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e0b12e5-b6d1-4aa7-af61-0c24e8fb48c3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/src/main/java/ro/uvt/sabloane/Author.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/src/main/java/ro/uvt/sabloane/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/src/main/java/ro/uvt/sabloane/Chapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/src/main/java/ro/uvt/sabloane/Element.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/src/main/java/ro/uvt/sabloane/Image.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/src/main/java/ro/uvt/sabloane/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/src/main/java/ro/uvt/sabloane/Paragraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/src/main/java/ro/uvt/sabloane/SubChapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/src/main/java/ro/uvt/sabloane/Table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab2/src/main/java/ro/uvt/sabloane/TableOfContents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/src/main/java/ro/uvt/sablab3/Author.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/src/main/java/ro/uvt/sablab3/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/src/main/java/ro/uvt/sablab3/Element.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/src/main/java/ro/uvt/sablab3/Image.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/src/main/java/ro/uvt/sablab3/ImageProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/src/main/java/ro/uvt/sablab3/Lab4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/src/main/java/ro/uvt/sablab3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/src/main/java/ro/uvt/sablab3/Paragraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/src/main/java/ro/uvt/sablab3/Section.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/src/main/java/ro/uvt/sablab3/Table.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/src/main/java/ro/uvt/sablab3/TableOfContents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/untitled">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Lab2" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="src" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="22jJMCo6NodZgy0K3NNJhb02907" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="15" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e0b12e5-b6d1-4aa7-af61-0c24e8fb48c3" name="Changes" comment="" />
+      <created>1640345014785</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640345014785</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
